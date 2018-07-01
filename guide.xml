@@ -1,0 +1,893 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="SporTV2">
+    <display-name lang="pt">SporTV2</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Sportv 3">
+    <display-name lang="pt">Sportv 3</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="pt">ESPN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20180630003000 -0300" stop="20180630013000 -0300" channel="SporTV">
+    <title lang="pt">México x Suécia - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630013000 -0300" stop="20180630023000 -0300" channel="SporTV">
+    <title lang="pt">Uruguai x Rússia - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630023000 -0300" stop="20180630030000 -0300" channel="SporTV">
+    <title lang="pt">Zona Mista</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630030000 -0300" stop="20180630040000 -0300" channel="SporTV">
+    <title lang="pt">Arábia Saudita x Egito - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630040000 -0300" stop="20180630050000 -0300" channel="SporTV">
+    <title lang="pt">Nigéria x Argentina - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630050000 -0300" stop="20180630051500 -0300" channel="SporTV">
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630051500 -0300" stop="20180630060000 -0300" channel="SporTV">
+    <title lang="pt">GP3: GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630060000 -0300" stop="20180630070000 -0300" channel="SporTV">
+    <title lang="pt">Espanha x Marrocos - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630070000 -0300" stop="20180630080000 -0300" channel="SporTV">
+    <title lang="pt">Irã x Portugal - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630080000 -0300" stop="20180630093000 -0300" channel="SporTV">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630093000 -0300" stop="20180630100000 -0300" channel="SporTV">
+    <title lang="pt">Pré - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630100000 -0300" stop="20180630111500 -0300" channel="SporTV">
+    <title lang="pt">Fórmula 1: Treino Oficial - GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630111500 -0300" stop="20180630114500 -0300" channel="SporTV">
+    <title lang="pt">Clássicos do Futebol: Rumo ao Bicampeonato</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630114500 -0300" stop="20180630125500 -0300" channel="SporTV">
+    <title lang="pt">Fórmula 2: GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630125500 -0300" stop="20180630130000 -0300" channel="SporTV">
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630130000 -0300" stop="20180630140000 -0300" channel="SporTV">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630140000 -0300" stop="20180630150000 -0300" channel="SporTV">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630150000 -0300" stop="20180630160000 -0300" channel="SporTV">
+    <title lang="pt">Inglaterra x Bélgica - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630160000 -0300" stop="20180630170000 -0300" channel="SporTV">
+    <title lang="pt">Sérvia x Brasil - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630170000 -0300" stop="20180630180000 -0300" channel="SporTV">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630180000 -0300" stop="20180630190000 -0300" channel="SporTV">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630190000 -0300" stop="20180630200000 -0300" channel="SporTV">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630200000 -0300" stop="20180630203000 -0300" channel="SporTV">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630203000 -0300" stop="20180630223000 -0300" channel="SporTV">
+    <title lang="pt">Paysandu x Fortaleza - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630223000 -0300" stop="20180630230500 -0300" channel="SporTV">
+    <title lang="pt">Clássicos do Futebol: Rumo ao Bicampeonato</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630230500 -0300" stop="20180701003000 -0300" channel="SporTV">
+    <title lang="pt">MLS: San Jose Earthquakes x Los Angeles Galaxy - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630003000 -0300" stop="20180630013000 -0300" channel="Sportv 3">
+    <title lang="pt">México x Suécia - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630013000 -0300" stop="20180630023000 -0300" channel="Sportv 3">
+    <title lang="pt">Uruguai x Rússia - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630023000 -0300" stop="20180630030000 -0300" channel="Sportv 3">
+    <title lang="pt">Zona Mista</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630030000 -0300" stop="20180630040000 -0300" channel="Sportv 3">
+    <title lang="pt">Arábia Saudita x Egito - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630040000 -0300" stop="20180630050000 -0300" channel="Sportv 3">
+    <title lang="pt">Nigéria x Argentina - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630050000 -0300" stop="20180630051500 -0300" channel="Sportv 3">
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630051500 -0300" stop="20180630060000 -0300" channel="Sportv 3">
+    <title lang="pt">GP3: GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630060000 -0300" stop="20180630070000 -0300" channel="Sportv 3">
+    <title lang="pt">Espanha x Marrocos - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630070000 -0300" stop="20180630080000 -0300" channel="Sportv 3">
+    <title lang="pt">Irã x Portugal - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630080000 -0300" stop="20180630093000 -0300" channel="Sportv 3">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630093000 -0300" stop="20180630100000 -0300" channel="Sportv 3">
+    <title lang="pt">Pré - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630100000 -0300" stop="20180630111500 -0300" channel="Sportv 3">
+    <title lang="pt">Fórmula 1: Treino Oficial - GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630111500 -0300" stop="20180630114500 -0300" channel="Sportv 3">
+    <title lang="pt">Clássicos do Futebol: Rumo ao Bicampeonato</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630114500 -0300" stop="20180630125500 -0300" channel="Sportv 3">
+    <title lang="pt">Fórmula 2: GP da Áustria - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630125500 -0300" stop="20180630130000 -0300" channel="Sportv 3">
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Mini-programa com os principais destaques da programação do SporTV. Somos Todos Campeões(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630130000 -0300" stop="20180630140000 -0300" channel="Sportv 3">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630140000 -0300" stop="20180630150000 -0300" channel="Sportv 3">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630150000 -0300" stop="20180630160000 -0300" channel="Sportv 3">
+    <title lang="pt">Inglaterra x Bélgica - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630160000 -0300" stop="20180630170000 -0300" channel="Sportv 3">
+    <title lang="pt">Sérvia x Brasil - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630170000 -0300" stop="20180630180000 -0300" channel="Sportv 3">
+    <title lang="pt">Coreia do Sul x Alemanha - Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630180000 -0300" stop="20180630190000 -0300" channel="Sportv 3">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630190000 -0300" stop="20180630200000 -0300" channel="Sportv 3">
+    <title lang="pt">Copa do Mundo da FIFA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630200000 -0300" stop="20180630203000 -0300" channel="Sportv 3">
+    <title lang="pt">Pré Jogo - Ao Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630203000 -0300" stop="20180630223000 -0300" channel="Sportv 3">
+    <title lang="pt">Paysandu x Fortaleza - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630223000 -0300" stop="20180630230500 -0300" channel="Sportv 3">
+    <title lang="pt">Clássicos do Futebol: Rumo ao Bicampeonato</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630000000 -0300" stop="20180630013000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630013000 -0300" stop="20180630020000 -0300" channel="Fox Sports">
+    <title lang="pt">#foxsports - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630020000 -0300" stop="20180630023000 -0300" channel="Fox Sports">
+    <title lang="pt">O Que Você Não Viu</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630023000 -0300" stop="20180630030000 -0300" channel="Fox Sports">
+    <title lang="pt">VT - Copa 2018: Sérvia x Brasil</title>
+    <desc lang="pt">Acompanhe a reprise dos jogos da Copa do Mundo da FIFA 2018 na Rússia(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630030000 -0300" stop="20180630033000 -0300" channel="Fox Sports">
+    <title lang="pt">Programação FOX SPORTS</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630033000 -0300" stop="20180630063000 -0300" channel="Fox Sports">
+    <title lang="pt">Debate Final</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630063000 -0300" stop="20180630070000 -0300" channel="Fox Sports">
+    <title lang="pt">O Que Você Não Viu</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630070000 -0300" stop="20180630080000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630080000 -0300" stop="20180630103000 -0300" channel="Fox Sports">
+    <title lang="pt">Bom Dia Fox - Vivo</title>
+    <desc lang="pt">Luciano Calheiros e Livia Nepomuceno trazem com leveza as primeiras notícias do dia sempre com um comentarista do canal, tal como Nadine Bastos, Fábio Sormani ou Osvaldo Pascoal(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630103000 -0300" stop="20180630110000 -0300" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630110000 -0300" stop="20180630130000 -0300" channel="Fox Sports">
+    <title lang="pt">Copa 2018 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630130000 -0300" stop="20180630143000 -0300" channel="Fox Sports">
+    <title lang="pt">Entre Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630143000 -0300" stop="20180630150000 -0300" channel="Fox Sports">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630150000 -0300" stop="20180630170000 -0300" channel="Fox Sports">
+    <title lang="pt">Copa 2018 - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630170000 -0300" stop="20180630200000 -0300" channel="Fox Sports">
+    <title lang="pt">Expediente Futebol - Vivo</title>
+    <desc lang="pt">O nosso u0027happy houru0027do futebol é comandado pelo apresentador João Guilherme. Todos os destaques da rodada com muito foco, detalhes e discussões aprofundadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630200000 -0300" stop="20180630210000 -0300" channel="Fox Sports">
+    <title lang="pt">Central Fox - Vivo</title>
+    <desc lang="pt">José Ilan, Marina Ferrari, Edu Elias, Karine Alves, Daniela Boaventura e Felipe Motta comandam o programa que traz diariamente os gols dos melhores campeonatos, reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630210000 -0300" stop="20180701000000 -0300" channel="Fox Sports">
+    <title lang="pt">Debate Final - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630000000 -0300" stop="20180630010000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 3ª Edição - Vivo</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630010000 -0300" stop="20180630030000 -0300" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">Os craques dos canais ESPN entram em campo, toda segunda e sexta, para a mais conceituada mesa redonda do futebol. A análise completa da rodada, sempre com olhar crítico e imparcialidade(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630030000 -0300" stop="20180630060000 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630060000 -0300" stop="20180630080000 -0300" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <desc lang="pt">O telejornal esportivo mais assistido no mundo Os principais fatos, imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abrir mão do bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630080000 -0300" stop="20180630110000 -0300" channel="ESPN">
+    <title lang="pt">Tempo Real - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630110000 -0300" stop="20180630115500 -0300" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630115500 -0300" stop="20180630121000 -0300" channel="ESPN">
+    <title lang="pt">Tempo Real - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630121000 -0300" stop="20180630130000 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630130000 -0300" stop="20180630132000 -0300" channel="ESPN">
+    <title lang="pt">Tempo Real - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630132000 -0300" stop="20180630150000 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Debate - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630150000 -0300" stop="20180630170000 -0300" channel="ESPN">
+    <title lang="pt">Tempo Real - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630170000 -0300" stop="20180630180000 -0300" channel="ESPN">
+    <title lang="pt">ESPN AGORA - Vivo</title>
+    <desc lang="pt">O melhor pacote de futebol está nos canais ESPN. Acompanhe durante toda a temporada jogos amistosos entre grandes times do mundo e também o encontro entre seleções de diversos países(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630180000 -0300" stop="20180630193000 -0300" channel="ESPN">
+    <title lang="pt">Bate-Bola Na Veia - Vivo</title>
+    <desc lang="pt">Gols da rodada, classificação, notícias, comentários de nossos craques, entrevistas exclusivas, cartolagem, dança dos treinadores, a compra e venda de jogadores e interatividade com o fã de esporte(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630193000 -0300" stop="20180630210000 -0300" channel="ESPN">
+    <title lang="pt">Resenha ESPN - Vivo</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630210000 -0300" stop="20180630220000 -0300" channel="ESPN">
+    <title lang="pt">Sportscenter: 2ª Edição - Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630220000 -0300" stop="20180701000000 -0300" channel="ESPN">
+    <title lang="pt">Linha de Passe: Mesa Redonda - Vivo</title>
+    <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630000000 -0300" stop="20180630010000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630010000 -0300" stop="20180630020000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630020000 -0300" stop="20180630030000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630030000 -0300" stop="20180630040000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630040000 -0300" stop="20180630050000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630050000 -0300" stop="20180630060000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - América MG x Atlético PR</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630060000 -0300" stop="20180630070000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Flamengo x Corinthians</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630070000 -0300" stop="20180630080000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630080000 -0300" stop="20180630090000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630090000 -0300" stop="20180630100000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Paraná x Fluminense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630100000 -0300" stop="20180630110000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Atlético MG x Chapecoense</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630110000 -0300" stop="20180630120000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Internacional x Sport</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630120000 -0300" stop="20180630130000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Vasco x Botafogo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630130000 -0300" stop="20180630140000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Palmeiras x São Paulo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630140000 -0300" stop="20180630150000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Bahia x Grêmio</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630150000 -0300" stop="20180630160000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - América MG x Atlético PR</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630160000 -0300" stop="20180630164000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Santos x Vitória</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630164000 -0300" stop="20180630174000 -0300" channel="Premiere Clubes">
+    <title lang="pt">FPF TV</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <episode-num system="onscreen">E17</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630174000 -0300" stop="20180630180000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630180000 -0300" stop="20180630201000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Figueirense x Ponte Preta - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630201000 -0300" stop="20180630203000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Pré Jogo - Vivo</title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630203000 -0300" stop="20180630233000 -0300" channel="Premiere Clubes">
+    <title lang="pt">Paysandu x Fortaleza - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630233000 -0300" stop="20180701000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">VT - Ceará x Cruzeiro</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180630000000 -0300" stop="20180630100000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630100000 -0300" stop="20180630120000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630120000 -0300" stop="20180630140000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630140000 -0300" stop="20180630160000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630160000 -0300" stop="20180630180000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630180000 -0300" stop="20180630183000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630183000 -0300" stop="20180630190000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630190000 -0300" stop="20180630210000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630210000 -0300" stop="20180630223000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180630223000 -0300" stop="20180701000000 -0300" channel="Premiere 2">
+    <title lang="pt">Venda Premiere 2</title>
+    <desc lang="pt">A maior cobertura dos campeonatos Brasileiro e Estadual com jogos em HD em até 08 canais para assistir a jogos ao vivo e exclusivos(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
