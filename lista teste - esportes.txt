@@ -1,0 +1,14 @@
+﻿#EXTM3U#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV" tvg-logo="http://i.imgur.com/knx9dj1.png" group-title="Esportes 2",SporTV
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/31.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qpwwQCz.png" group-title="Esportes 2",SporTV 2
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/30.ts
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/8ds9Wv0.png" group-title="Esportes 2",SporTV 3
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/28.ts
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes 2",FOX Sports
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/93.ts
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="ESPN" tvg-logo="https://i.imgur.com/jiUcOtl.png" group-title="Esportes 2",ESPN
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/99.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/XtLMfL5.png" group-title="Esportes 2",Premiere Clubes
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/46.ts
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/XtLMfL5.png" group-title="Esportes 2",Premiere 2
+http://rhagf.co:25461/live/fHKxG8Svo2/EyjX7Xedz4/54.ts
